@@ -17,7 +17,7 @@ const Navbar = () => {
         <>
             <nav className="landing-nav">
                 <div className="landing-logo">
-                    <img className="navbar-logo" src={Logo} /><span>Mozillo</span>
+                    <img className="navbar-logo" src={Logo} /><span>Sanshreya</span>
                 </div>
                 <ul className="landing-nav-links" style={{ transform: open ? "translateX(0px)" : "" }}>
                     <li><Link to="/">Home</Link></li>

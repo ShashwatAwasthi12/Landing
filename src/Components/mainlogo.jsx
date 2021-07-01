@@ -9,7 +9,7 @@ const Mainlogo = () => {
                 <img src={Logo} className="landing-left-img" />
             </div>
             <div className="col col-md-4 landing-left-2">
-                <span>Mozillo..</span>
+                <span>Sanshreya</span>
                 <p>Lets Socialize!!</p>
             </div>
         </div>
